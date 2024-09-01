@@ -1,4 +1,14 @@
 ## GANs Project: Face Generation
+Introduction
+In this project, you'll build a custom generative adversarial network to generate new images of faces.
+
+A collage of processed facial images from the CelebA dataset, showing diverse facial expressions and features.
+Processed CelebA face data
+
+After training your model for a few epochs, you should be able to generate faces as seen below.
+
+A series of generated faces showcasing various facial expressions and ethnic features, displayed in two rows.
+Generated faces
 ### Getting the project files
 
 The project files are located in the Project Workspace and include the following files:
