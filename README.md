@@ -1,3 +1,14 @@
+# Face-Generation
+Face Generator Project is a part of Udacity Deep Learning Nanodegree.
+
+# Goal
+Generate new faces using Generative Adversarial Networks (GANs).  
+The model is trained on the CelebFaces Attributes Dataset (CelebA):
+![Image of Training Set](https://github.com/LLLLLLLLL1516/face-generation-with-deep-convolutional-generative-adversarial-network/blob/main/processed_face_data.png)
+
+It generates new human faces that look like this:  
+![Image of Generated Faces](https://github.com/LLLLLLLLL1516/face-generation-with-deep-convolutional-generative-adversarial-network/blob/main/Generated_faces2.png)
+
 ## GANs Project: Face Generation
 Introduction
 In this project, you'll build a custom generative adversarial network to generate new images of faces.
